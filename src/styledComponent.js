@@ -41,3 +41,9 @@ export const HorizontalLine = styled.hr`
   padding-top: 5px;
   margin-bottom: 5px;
 `
+
+export const OutlineButton = styled(CustomBtn)`
+  color: #0070c1;
+  background-color: #ffffff;
+  text-decoration: none;
+`
